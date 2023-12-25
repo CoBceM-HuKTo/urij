@@ -1,0 +1,173 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
+
+
+html {
+    color: #007afb;
+}
+
+.logo {
+    position: absolute;
+    top: 5vw;
+    left: 5vw;
+    width: 50vw;
+}
+
+.photo {
+    width: 30vw;
+    height: 30vw;
+    position: absolute;
+    top: 31vw;
+    left: 9vw;
+    /* border: 0.2vw solid #000000; */
+    border-radius: 1000vw;
+}
+
+.name {
+    position: absolute;
+    top: 41vw;
+    left: 43vw;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 5vw;
+}
+
+.about {
+    position: absolute;
+    top: 47vw;
+    left: 43vw;
+    font-family: 'Montserrat';
+    font-size: 2.5vw;
+}
+
+.circle {
+    width: 30vw;
+    height: 30vw;
+    position: absolute;
+    top: 31vw;
+    left: 9vw;
+    border-radius: 1000vw;
+    background: #007afb;
+    opacity: 0.15;
+}
+
+.tg {
+    width: 15vw;
+    position: absolute;
+    top: 67vw;
+    left: 17vw;
+}
+
+.viber {
+    width: 15vw;
+    position: absolute;
+    top: 67vw;
+    left: 42vw;
+}
+
+.whatsapp {
+    width: 15vw;
+    position: absolute;
+    top: 67vw;
+    left: 67vw;
+}
+
+.email {
+    width: 15vw;
+    position: absolute;
+    top: 85vw;
+    left: 67vw;
+}
+
+.vk {
+    width: 15vw;
+    position: absolute;
+    top: 85vw;
+    left: 17vw;
+}
+
+
+.site {
+    width: 16vw;
+    position: absolute;
+    top: 85vw;
+    left: 41.5vw;
+}
+
+
+.header {
+    position: absolute;
+    top: 90vw;
+    left: 10vw;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 5vw;
+}
+
+.text {
+    position: absolute;
+    top: 108vw;
+    left: 10vw;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3.5vw;
+    line-height: 5vw;
+}
+
+.place {
+    position: absolute;
+    top: 160vw;
+    height: 65vw;
+    width: 50vw;
+    /* background: red; */
+}
+
+.contact {
+    padding: 3vw;
+    padding-left: 20.8vw;
+    padding-right: 20.8vw;
+    color: white;
+    background: #0063cc;
+    font-family: 'Montserrat', sans-serif;
+    position: fixed;
+    bottom: 16vw;
+    font-size: 3vw;
+    border-radius: 1vw;
+    left: 5vw;
+    /* padding: 10vw; */
+}
+
+.phone {
+    padding: 3%;
+    padding-left: 13.8vw;
+    padding-right: 13.8vw;
+    color: white;
+    background: #0064cf;
+    font-family: 'Montserrat', sans-serif;
+    position: fixed;
+    bottom: 5vw;
+    font-size: 3vw;
+    border-radius: 1vw;
+    left: 5vw;
+    /* padding: 10vw; */
+}
+
+.phone2 {
+    padding: 3%;
+    padding-left: 10vw;
+    padding-right: 10vw;
+    color: white;
+    background: #0064cf;
+    font-family: 'Montserrat', sans-serif;
+    position: fixed;
+    bottom: 5vw;
+    font-size: 3vw;
+    border-radius: 1vw;
+    right: 5vw;
+}
+
+.bottom-menu {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100vw;
+    height: 24vw;
+    background: white;
+}
